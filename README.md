@@ -1,11 +1,7 @@
-# Ktor on Google App Engine Standard
+# Action Random
 
-To download and run this sample, download the code with the commands below, and
-then follow the steps in the [Community Tutorial][tutorial].
+Sample how to use kotlin in developing google assistant actions
 
-```sh
-git clone git@github.com:GoogleCloudPlatform/kotlin-samples
-cd kotlin-samples/appengine/ktor
-```
 
+- Ktor on Google App Engine Standard
 [tutorial]: https://cloud.google.com/community/tutorials/kotlin-ktor-app-engine-java8
